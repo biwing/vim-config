@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/bing/Downloads/security/wpa2_dict'
-let g:netrw_dirhist_2='/coder/lianjia/www/lianjia-tp/script'
-let g:netrw_dirhist_3='/coder/lianjia/www/lianjia-tp/tests/callback'
-let g:netrw_dirhist_4='/coder/lianjia/www/lianjia-tp/config/partner'
